@@ -2275,8 +2275,12 @@
     <string name="preferences__linked_devices">Linked devices</string>
     <string name="preferences__light_theme">Light</string>
     <string name="preferences__dark_theme">Dark</string>
+    <string name="preferences__font_default">Default</string>
+    <string name="preferences__font_poppins">Poppins</string>
+    <string name="preferences__font_dancing">Dancing Script</string>
     <string name="preferences__appearance">Appearance</string>
     <string name="preferences__theme">Theme</string>
+    <string name="preferences__font">Font</string>
     <string name="preferences__chat_wallpaper">Chat wallpaper</string>
     <string name="preferences__disable_pin">Disable PIN</string>
     <string name="preferences__enable_pin">Enable PIN</string>
