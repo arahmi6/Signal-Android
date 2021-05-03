@@ -167,6 +167,18 @@
       <item>dark</item>
   </string-array>
 
+    <string-array name="pref_font_entries" tools:ignore="InconsistentArrays">
+        <item>@string/preferences__font_default</item>
+        <item>@string/preferences__font_poppins</item>
+        <item>@string/preferences__font_dancing</item>
+    </string-array>
+
+    <string-array name="pref_font_values" translatable="false" tools:ignore="InconsistentArrays">
+        <item>default</item>
+        <item>poppins</item>
+        <item>dancing</item>
+    </string-array>
+
   <string-array name="pref_led_color_entries">
     <item>@string/preferences__green</item>
     <item>@string/preferences__red</item>
